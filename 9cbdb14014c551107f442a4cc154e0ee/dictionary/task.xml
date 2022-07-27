@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.detail_row=short_description,all_tables.display_color=priority,all_tables.live_feed=true,all_tables.text_index_translations=true,extension_model=hierarchy,hasListeners=true,largeTable=true,reference_index_include=active" label="Task" max_length="40" name="task" sizeclass="717" text_index="true" type="collection">
+        <element label="Field Available?" max_length="40" name="u_field_available" type="boolean"/>
+    </element>
+</database>
